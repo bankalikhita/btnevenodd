@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.div {
+  background-size: cover;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #0f172a;
+}
+.oddoreven {
+  color: #334155;
+}
+.btn {
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+}
+.cond {
+  color: #1e293b;
+}
